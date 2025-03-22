@@ -1,4 +1,14 @@
-<h2 align="center">👋 Hi there! It's Jacquin👋</h2>
+![👋 Hi there! It's Jacquin](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
+
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi there! It's Jacquin
+      </h1>
+    </summary>
+  </ul>
+</div>
 
 <h3 align="center">🚀 Github Profile Stats 🚀</h3>
 
